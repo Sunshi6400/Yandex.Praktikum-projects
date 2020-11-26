@@ -1,4 +1,4 @@
-Источник данных: исторические данные об ушедших/оставшихся клиентах банка. \
+Источник данных: исторические данные о поведении клиентов и расторжении договоров с банком. \
 Данные на Kaggle: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 Стек: Pandas, NumPy, MatPlotLib, sklearn, предобработка данных, исследовательский анализ данных, визуализация, logistic regression, decision tree, random forest.
