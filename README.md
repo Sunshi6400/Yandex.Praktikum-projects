@@ -3,7 +3,7 @@
 Projects that i've done when study in Yandex.Praktikum
 
 Название проекта | Содержание проекта
-- | -
+---------------- | ------------------
 123112 | ыфвфы
 
 
