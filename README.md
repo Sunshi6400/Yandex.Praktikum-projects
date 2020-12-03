@@ -4,7 +4,7 @@ Projects that i've done in Yandex.Praktikum
 
 Название проекта | Описание проекта | Стек | Проект
 ---------------- | ---------------- | ---- | ------
-auto_market_price_ml_prediction | разработка модели, предсказывающей рыночную цену автомобиля по его техническим характеристикам | Pandas, NumPy, MatPlotLib, sklearn, LightGBM, предобработка данных, исследовательский анализ данных, случайный лес | 
+auto_market_price_ml_prediction | разработка модели, предсказывающей рыночную цену автомобиля по его техническим характеристикам | Pandas, NumPy, MatPlotLib, sklearn, LightGBM, предобработка данных, исследовательский анализ данных, случайный лес | https://github.com/Sunshi6400/Yandex.Praktikum-projects/tree/main/auto_market_price_ml_prediction
 bank_customer_churn_ml_prediction | разработка модели, предсказывающей вероятность ухода клиента из банка |  | 
 best_games_sales_features | выявление признаков, оказывающих наибольшее влияние на успешность продажи игр на различных платформах |  | 
 flight_ticket_stat_demand_comparison | работа с данными с помощью MySQL + проверка статистической гипотезы "Средний спрос на билеты во время фестивалей не отличается от среднего спроса на билеты в обычное время" |  | 
